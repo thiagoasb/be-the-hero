@@ -2,7 +2,7 @@
 Projeto desenvolvido durante a Semana OminiStack11 promovido pela Rocketseat.
 
 O projeto consiste no desenvolvimento de um sistema que permite pessoas doarem um valor monetário para algum projeto de uma determinada ONG, previamente cadastrada. 
-As tecnologias utilizadas from NodeJs, ReactJs e ReactNative.
+As tecnologias utilizadas from NodeJs, React, ReactNative e Expo.
 
 Web:
 
