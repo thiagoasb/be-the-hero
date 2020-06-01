@@ -14,7 +14,7 @@
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 
-## Projeto web :computer:
+## Projeto web
 A parte web do projeto é onde as ONG's fazem login no sistema, e podem visualizar, cadastrar ou excluir casos.
 
 <img src="https://user-images.githubusercontent.com/38672183/77970431-922f0b80-72c2-11ea-83b4-8347287ce6ef.png" alt="entrada"/>
@@ -25,7 +25,7 @@ A parte web do projeto é onde as ONG's fazem login no sistema, e podem visualiz
 
 <img src="https://user-images.githubusercontent.com/38672183/77970472-a7a43580-72c2-11ea-9502-a84bdaf6a969.png" alt="newCaso"/>
 
-## Projeto mobile :iphone: 
+## Projeto mobile
 A parte mobile é onde os usuários irão adotar um caso cadastrado pelas ONG's e doar um determinado valor, entrando em contato com a ONG por meio do WhatsApp ou E-mail. 
 
 <table align="center">
